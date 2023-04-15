@@ -13,7 +13,7 @@ import discord_webhook
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
 
-webhook = DiscordWebhook(url='https://discord.com/api/webhooks/1094517381931487342/GRd5gjQCDo6t_e9JHUQurf2U4nbfiGZwqoO6bttNQz7U51pRgkoyPGll8XRYuYgMdNAG')
+webhook = DiscordWebhook(url='')
 
 
 with open("limiteds.txt", "r") as f:
